@@ -10,5 +10,15 @@
   ],
   "callbackRecurrencePayments": {
     "externalReference": "teste"
+  },
+  "redemption": {
+    "transaction": "200156",
+    "cardNumber": 6039534101305047000,
+    "endDate": "2022-08-15T03:08:15.956Z",
+    "batch": {
+      "batchId": 44,
+      "type": "PHYSICAL",
+      "player": "BLACKHAWK"
+    }
   }
 }
